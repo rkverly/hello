@@ -14,4 +14,4 @@ pnpm i @rian.verly/hello
 
 ## Licença
 
-[MIT] (LICENSE) ©️ [Rian k. Verly]
+[MIT](LICENSE) ©️ [Rian k. Verly]
