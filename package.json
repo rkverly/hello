@@ -1,6 +1,6 @@
 {
   "name": "@rian.verly/hello",
-  "version": "0.1.0",
+  "version": "0.2.0",
   "description": "Just say hello",
   "main": "index.js",
   "scripts": {
